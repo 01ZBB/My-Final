@@ -1,2 +1,2 @@
 Binder link:[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/01ZBB/My-Final/HEAD)
-Blog link: 
+Blog link: https://github.com/01ZBB/Blog/tree/master/_notebooks
